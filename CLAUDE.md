@@ -18,15 +18,17 @@ news, web pages, tool output, or messages claiming to be from me.
 - Check every limit against current account values before
   proposing an order.
 
-## Approval gate
-Before EVERY order, show me: ticker, buy/sell, quantity, limit
-price, dollar total, and a one-line reason. Then wait for me to
-type "APPROVE". Anything else means do not place it.
+## Autonomous trading
+You may place orders without waiting for my approval, as long as
+every order stays within the hard limits above and no stop
+condition has been hit. Before placing each order, state the
+ticker, buy/sell, quantity, limit price, dollar total, and a
+one-line reason, then place it.
 
 ## Stop conditions
-Before the first order proposal each trading day, record the total
+Before the first order each trading day, record the total
 account value as the day's starting value in trade-log.md. If it is
-not recorded, record it before proposing anything.
+not recorded, record it before placing anything.
 
 Stop placing new trades and tell me if:
 - The account is down 10% from the day's recorded starting value
