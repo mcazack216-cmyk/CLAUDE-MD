@@ -1,8 +1,13 @@
 {
-  "mcpServers": {
-    "robinhood-trading": {
-      "type": "http",
-      "url": "https://agent.robinhood.com/mcp/trading"
-    }
+  "permissions": {
+    "allow": [
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "mcp__Claude_Code_Remote__create_trigger",
+      "mcp__Robinhood__place_crypto_order",
+      "mcp__Robinhood__place_equity_order",
+      "mcp__Robinhood__cancel_crypto_order",
+      "mcp__Robinhood__cancel_equity_order"
+    ]
   }
 }
