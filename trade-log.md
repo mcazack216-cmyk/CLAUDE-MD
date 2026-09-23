@@ -20,3 +20,5 @@
 | 2026-09-23 | 12:44 ET | PEPE | buy | 7094594 | 0.00000444 | $31.50 | All-in memecoin dip-buy: PEPE down ~11% on the day, high-beta rebound bet (user asked to be risky) |
 | 2026-09-23 | 13:40 ET | PEPE | sell | 7094594 | 0.00000434 | $30.79 | User asked to sell the crypto |
 | 2026-09-23 | 13:48 ET | TZA | buy | 0.690363 | 45.0487 | $31.10 | Aggressive momentum: 3x inverse small caps up ~4.7% as small caps lead the selloff |
+| 2026-09-23 | 15:14 ET | TZA | sell | 0.690363 | 45.062 | $31.11 | Rotate out of flat hedge into strongest momentum name (day trade #3) |
+| 2026-09-23 | 15:15 ET | FSLY | buy | 1.021349 | 30.4499 | $31.10 | Aggressive momentum: Fastly +16% on 22M volume on a red tape; hold overnight (PDT) |
