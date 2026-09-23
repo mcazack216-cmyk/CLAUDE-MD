@@ -16,3 +16,5 @@
 | 2026-09-23 | 09:32 ET | TSLL | buy | 3.075483 | 10.4699 | $32.20 | Momentum: 2x TSLA ETF up ~2% at open while QQQ/SOXL red |
 | 2026-09-23 | 12:25 ET | TSLL | sell | 3.075483 | 10.365 | $31.88 | Manual sell placed by user in app (accidental, per user); not an agent trade |
 | 2026-09-23 | 12:32 ET | TSLL | buy | 3.074313 | 10.3763 | $31.90 | Restore accidentally sold position; TSLL still strongest leveraged long on a red day |
+| 2026-09-23 | 12:44 ET | TSLL | sell | 3.074313 | 10.3535 | $31.83 | User asked for riskier play; raise cash to rotate into memecoin |
+| 2026-09-23 | 12:44 ET | PEPE | buy | 7094594 | 0.00000444 | $31.50 | All-in memecoin dip-buy: PEPE down ~11% on the day, high-beta rebound bet (user asked to be risky) |
