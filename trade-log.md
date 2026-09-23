@@ -18,3 +18,4 @@
 | 2026-09-23 | 12:32 ET | TSLL | buy | 3.074313 | 10.3763 | $31.90 | Restore accidentally sold position; TSLL still strongest leveraged long on a red day |
 | 2026-09-23 | 12:44 ET | TSLL | sell | 3.074313 | 10.3535 | $31.83 | User asked for riskier play; raise cash to rotate into memecoin |
 | 2026-09-23 | 12:44 ET | PEPE | buy | 7094594 | 0.00000444 | $31.50 | All-in memecoin dip-buy: PEPE down ~11% on the day, high-beta rebound bet (user asked to be risky) |
+| 2026-09-23 | 13:40 ET | PEPE | sell | 7094594 | 0.00000434 | $30.79 | User asked to sell the crypto |
