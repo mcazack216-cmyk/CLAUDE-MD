@@ -23,3 +23,5 @@
 | 2026-09-23 | 13:48 ET | TZA | buy | 0.690363 | 45.0487 | $31.10 | Aggressive momentum: 3x inverse small caps up ~4.7% as small caps lead the selloff |
 | 2026-09-23 | 15:14 ET | TZA | sell | 0.690363 | 45.062 | $31.11 | Rotate out of flat hedge into strongest momentum name (day trade #3) |
 | 2026-09-23 | 15:15 ET | FSLY | buy | 1.021349 | 30.4499 | $31.10 | Aggressive momentum: Fastly +16% on 22M volume on a red tape; hold overnight (PDT) |
+| 2026-09-24 | 09:32 ET | FSLY | sell | 1.021349 | 27.0001 | $27.58 | Momentum broke: gapped down ~9.5% at open after prior day's run (held overnight, not a day trade) |
+| 2026-09-24 | 09:32 ET | NBIS | buy | 0.116103 | 237.7199 | $27.60 | Aggressive momentum: Nebius +4.8% at open on a red tape; must hold overnight (PDT, 3 day trades used) |
