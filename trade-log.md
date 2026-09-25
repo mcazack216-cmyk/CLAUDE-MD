@@ -26,3 +26,5 @@
 | 2026-09-23 | 15:15 ET | FSLY | buy | 1.021349 | 30.4499 | $31.10 | Aggressive momentum: Fastly +16% on 22M volume on a red tape; hold overnight (PDT) |
 | 2026-09-24 | 09:32 ET | FSLY | sell | 1.021349 | 27.0001 | $27.58 | Momentum broke: gapped down ~9.5% at open after prior day's run (held overnight, not a day trade) |
 | 2026-09-24 | 09:32 ET | NBIS | buy | 0.116103 | 237.7199 | $27.60 | Aggressive momentum: Nebius +4.8% at open on a red tape; must hold overnight (PDT, 3 day trades used) |
+| 2026-09-25 | 09:32 ET | NBIS | sell | 0.116103 | 243.2279 | $28.24 | Rotate out: NBIS flat at the open; move to stronger momentum (not a day trade, bought 9/24) |
+| 2026-09-25 | 09:32 ET | AKAM | buy | 0.228408 | 123.682 | $28.25 | Momentum: +14% on $11.6B Anthropic cloud deal, large-cap with volume; hold until Monday (PDT, 3 day trades used) |
