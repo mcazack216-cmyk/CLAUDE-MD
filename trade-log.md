@@ -29,3 +29,5 @@
 | 2026-09-24 | 09:32 ET | NBIS | buy | 0.116103 | 237.7199 | $27.60 | Aggressive momentum: Nebius +4.8% at open on a red tape; must hold overnight (PDT, 3 day trades used) |
 | 2026-09-25 | 09:32 ET | NBIS | sell | 0.116103 | 243.2279 | $28.24 | Rotate out: NBIS flat at the open; move to stronger momentum (not a day trade, bought 9/24) |
 | 2026-09-25 | 09:32 ET | AKAM | buy | 0.228408 | 123.682 | $28.25 | Momentum: +14% on $11.6B Anthropic cloud deal, large-cap with volume; hold until Monday (PDT, 3 day trades used) |
+| 2026-09-28 | 10:32 ET | AKAM | sell | 0.228408 | 111.1501 | $25.39 | Rotate out: AKAM -2.4% on the day, fading after Anthropic-deal pop (not a day trade, bought 9/25) |
+| 2026-09-28 | 10:32 ET | KOD | buy | 0.298198 | 85.1782 | $25.40 | Momentum: +162% on ~8x relative volume, strongest liquid mover (~$2B cap); must hold overnight (PDT) |
