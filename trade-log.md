@@ -32,3 +32,5 @@
 | 2026-09-25 | 09:32 ET | AKAM | buy | 0.228408 | 123.682 | $28.25 | Momentum: +14% on $11.6B Anthropic cloud deal, large-cap with volume; hold until Monday (PDT, 3 day trades used) |
 | 2026-09-28 | 10:32 ET | AKAM | sell | 0.228408 | 111.1501 | $25.39 | Rotate out: AKAM -2.4% on the day, fading after Anthropic-deal pop (not a day trade, bought 9/25) |
 | 2026-09-28 | 10:32 ET | KOD | buy | 0.298198 | 85.1782 | $25.40 | Momentum: +162% on ~8x relative volume, strongest liquid mover (~$2B cap); must hold overnight (PDT) |
+| 2026-09-29 | 09:32 ET | KOD | sell | 0.298198 | 85.7801 | $25.58 | Rotate out: KOD -3% on day 2 after +178% run, fading; lock small gain (not a day trade, bought 9/28) |
+| 2026-09-29 | 09:32 ET | SMMT | buy | 1.437894 | 17.7899 | $25.58 | Momentum: +14% at open, ~$14B large-cap with tight spread, strongest liquid mover; must hold overnight (PDT) |
