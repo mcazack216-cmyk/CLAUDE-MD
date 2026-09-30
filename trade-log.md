@@ -35,3 +35,5 @@
 | 2026-09-28 | 10:32 ET | KOD | buy | 0.298198 | 85.1782 | $25.40 | Momentum: +162% on ~8x relative volume, strongest liquid mover (~$2B cap); must hold overnight (PDT) |
 | 2026-09-29 | 09:32 ET | KOD | sell | 0.298198 | 85.7801 | $25.58 | Rotate out: KOD -3% on day 2 after +178% run, fading; lock small gain (not a day trade, bought 9/28) |
 | 2026-09-29 | 09:32 ET | SMMT | buy | 1.437894 | 17.7899 | $25.58 | Momentum: +14% at open, ~$14B large-cap with tight spread, strongest liquid mover; must hold overnight (PDT) |
+| 2026-09-30 | 09:32 ET | SMMT | sell | 1.437894 | 16.5564 | $23.81 | Rotate out: SMMT only +2% at open, laggard vs. stronger movers (not a day trade, bought 9/29) |
+| 2026-09-30 | 09:32 ET | CAPR | buy | 2.242017 | 10.6199 | $23.81 | Momentum: +22% at open on ~3x relative volume, tight spread, ~$500M cap, strongest liquid mover; must hold overnight (PDT) |
