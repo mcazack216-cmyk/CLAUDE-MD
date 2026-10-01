@@ -38,3 +38,5 @@
 | 2026-09-29 | 09:32 ET | SMMT | buy | 1.437894 | 17.7899 | $25.58 | Momentum: +14% at open, ~$14B large-cap with tight spread, strongest liquid mover; must hold overnight (PDT) |
 | 2026-09-30 | 09:32 ET | SMMT | sell | 1.437894 | 16.5564 | $23.81 | Rotate out: SMMT only +2% at open, laggard vs. stronger movers (not a day trade, bought 9/29) |
 | 2026-09-30 | 09:32 ET | CAPR | buy | 2.242017 | 10.6199 | $23.81 | Momentum: +22% at open on ~3x relative volume, tight spread, ~$500M cap, strongest liquid mover; must hold overnight (PDT) |
+| 2026-10-01 | 09:32 ET | CAPR | sell | 2.242017 | 9.2251 | $20.68 | Rotate out: CAPR -1.7% at open, faded after +22% day-1 pop (not a day trade, bought 9/30) |
+| 2026-10-01 | 09:32 ET | ACN | buy | 0.093820 | 220.4199 | $20.68 | Momentum: +20% at open, ~$116B mega-cap with heavy volume, strongest liquid mover; must hold overnight (PDT) |
