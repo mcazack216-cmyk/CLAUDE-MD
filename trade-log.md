@@ -41,3 +41,6 @@
 | 2026-09-30 | 09:32 ET | CAPR | buy | 2.242017 | 10.6199 | $23.81 | Momentum: +22% at open on ~3x relative volume, tight spread, ~$500M cap, strongest liquid mover; must hold overnight (PDT) |
 | 2026-10-01 | 09:32 ET | CAPR | sell | 2.242017 | 9.2251 | $20.68 | Rotate out: CAPR -1.7% at open, faded after +22% day-1 pop (not a day trade, bought 9/30) |
 | 2026-10-01 | 09:32 ET | ACN | buy | 0.093820 | 220.4199 | $20.68 | Momentum: +20% at open, ~$116B mega-cap with heavy volume, strongest liquid mover; must hold overnight (PDT) |
+| 2026-10-02 | 09:32 ET | ACN | sell | 0.093820 | 209.2801 | $19.63 | Rotate out: ACN -1.1% at open, laggard (not a day trade, bought 10/1) |
+
+**2026-10-02 09:32 ET — STOP CONDITION:** SYNA market buy ($19.63) rejected with API 400: "You can't open a new position until you cover your margin call in your individual account." No further orders placed; account is in cash ($19.64) pending user review.
